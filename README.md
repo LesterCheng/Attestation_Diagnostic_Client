@@ -1,7 +1,11 @@
-# Samples for TPM-based attestation using Microsoft Azure Attestation
+# Diagnostic Client for Microsoft Azure Attestation
 
-These code samples show how attestation can be performed using the TPM. Additionally the sample takes advantage of the https://www.nuget.org/packages/Microsoft.Attestation.Client
+This is a fork of the sample attestation client with changes to help diagnose attestation issues.
 
+<br>
+<br>
+
+`// To-do: Update descriptions below`
 ## List of Samples
 
 ### **Boot attestation (sample_boot_att.exe)**
